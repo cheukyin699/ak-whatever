@@ -1,0 +1,10 @@
+.cache/
+build/
+data/
+compile_commands.json
+
+subprojects/packagecache/
+subprojects/SFML-*
+
+spine-cpp/
+spine-sfml/
